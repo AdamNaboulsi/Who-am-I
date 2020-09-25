@@ -9,7 +9,9 @@ last modified: September 21, 2020
 Author: Adam Naboulsi
 
 My name is Adam Naboulsi and I am student at Queen Elizabeth Highschool. I have 5 sibling, 2 parents and a fat cat at home.
-The 2 classes I take at school are Computing Science and Career and Life Management Program.
+The 2 classes I take at school are Computing Science and Career and Life Management Program. when I turn 16 next year I
+hope to get my license and save up for a car.
+
 
 I somewhat know what I want to do in life. I want to hopefully graduate Highschool with good grades so I am able to go to university.
 The University I would like to go to is NATE or The University of Alberta. I hope work hard in University and one day become a pharmacist.
@@ -30,4 +32,4 @@ Sports: I enjoy playing Basketball
 Habits:
 Daily Routines: wakes up at 7 am
 Religion: Muslim
-Personality:          Helpful
+Personality:  Helpful
